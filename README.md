@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acksa123&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
