@@ -1,5 +1,8 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src=""https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng" width="100"/>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=acksa123&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acksa123&theme=dark)](https://git.io/streak-stats)
 
