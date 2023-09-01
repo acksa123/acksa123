@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src=""https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng" width="100"/>
+  <img src=""https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlucjY1eWdlenVwMXY1cmNsbnhlbXEzcHRhbDFhczU0YTZscmNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acksa123&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
